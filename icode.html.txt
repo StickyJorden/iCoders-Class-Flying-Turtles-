@@ -1,0 +1,17 @@
+<html>
+    <head>
+     
+        
+    </head>
+    
+    <body>
+        <h1>Joe Mama</h1>
+        
+        <p>What we do in this class. Joe Mama's pizzas. How our teacher is. I am starving. TAKE OVER THE WORLD BY EATING CHICKEN. invade planet earth and the other planets. </p>
+        
+        <h6>made by: everyone</h6>
+        
+    </body>
+</html>
+
+
