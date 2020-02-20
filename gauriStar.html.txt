@@ -1,0 +1,20 @@
+
+<html>
+    
+<head>
+    <style>
+        body{
+            background-color:purple;
+        }
+    </style>
+    
+</head>
+
+<body>
+    
+ <img src="https://media.istockphoto.com/vectors/colorful-turtle-vector-illustration-vector-id901883558?k=6&m=901883558&s=612x612&w=0&h=RpDZPFCzMAR5ANST7j8NeROmz1b4MiwsAZ-hODBYleA=" width="200"> 
+ <img src="https://cdn.pixabay.com/photo/2019/05/16/22/45/cat-baby-4208534_960_720.jpg"width="300">
+</body>
+
+</html>
+
