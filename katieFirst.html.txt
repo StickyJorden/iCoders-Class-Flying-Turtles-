@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: pink;
+  text-align: center;
+  color: Teal;
+  font-family: Arial;
+}
+</style>
+</head>
+<body>
+
+<h1>Pug life poems</h1>
+<p>By: Katie Thompson</p>
+
+<img src="https://i.redd.it/7gnak9tzxhq01.jpg" alt="Avatar" style="width:300px">
+
+<p>This is a pug, as you can see. It's as cute, as it can be.
+Under the blanket, he looked so cute. But then he jumps into a boot.</p>
+
+
+</body>
+</html>
