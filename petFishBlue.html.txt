@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Blue!!</title>
+</head>
+<body>
+<h1>My pet fish blue!<h1>
+<img src="https://dqzrr9k4bjpzk.cloudfront.net/images/5391016/1023945296.jpg">
+<p>my pet fish blue is awesome! My fish is scared a lot but he is awesome a bunch! He is my ony frined when I am alone in my house.
+
+</body>
+</html>
