@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h1>About Gauri</h1>
+
+<table>
+  <tr>
+    <th>Name
+    <th>Favorite Sports</th>
+    <th>Favorite Foods</th>
+    <th>Favorite Songs</th>
+  </tr>
+  <tr>
+    <td>Lucky</td>
+    <td>Basketball</td>
+    <td>Ribs</td>
+  </tr>
+  <tr>
+    <td>Ekam</td>
+    <td>Soccer</td>
+    <td>Croissoints</td>
+  </tr>
+  <tr>
+    <td>GAURI</td>
+    <td>Soccer</td>
+    <td>Cantalopes</td>
+  </tr>
+  <tr>
+    <td>Kad</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+
+</body>
+</html>
